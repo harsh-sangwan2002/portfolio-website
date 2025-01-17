@@ -123,9 +123,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "Feb 2025 - Present",
     points: [
-      "Currently working at Rakatua as a cybersecurity expert, focusing on privileged access and password management strategies.",
-      "Gaining expertise in Privileged Access Management (PAM) tools to secure sensitive data and access control systems.",
-      "Managing and implementing password safe solutions to ensure robust protection and compliance for organizational security protocols.",
+      "Executed cybersecurity strategies at Rakatua, enhancing privileged access and password management, resulting in a 30% increase in security protocol effectiveness",
+      "Implemented password safe solutions, achieving 100% compliance with security protocols and reducing security breaches by 40% through enhanced data protection.",
+      "Managed and implemented password safe solutions to ensure robust protection and compliance for organizational security protocols.",
     ],
   },
   {
