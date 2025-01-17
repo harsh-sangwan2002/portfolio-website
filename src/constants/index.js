@@ -121,7 +121,7 @@ const experiences = [
     company_name: "Rakatu",
     icon: rakatu,
     iconBg: "#383E56",
-    date: "Feb 2025 - Present",
+    date: "Nov 2024 - Present",
     points: [
       "Executed cybersecurity strategies at Rakatua, enhancing privileged access and password management, resulting in a 30% increase in security protocol effectiveness",
       "Implemented password safe solutions, achieving 100% compliance with security protocols and reducing security breaches by 40% through enhanced data protection.",
@@ -133,7 +133,7 @@ const experiences = [
     company_name: "Vedaz.io",
     icon: vedaz,
     iconBg: "#383E56",
-    date: "Nov 2024 - Feb 2025",
+    date: "Dec 2024 - Jan 2025",
     points: [
       "Migrated an existing website to Remix, enhancing performance and scalability, while developing responsive and user - friendly web and mobile applications using Remix and Tailwind CSS.",
       "Authored clean, efficient, and maintainable code by adhering to industry best practices, resulting in improved code quality and reduced technical debt.",
