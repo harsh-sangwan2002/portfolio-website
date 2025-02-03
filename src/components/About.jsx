@@ -48,7 +48,7 @@ const About = () => {
                 variants={fadeIn("", "", 0.1, 1)}
                 className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
             >
-                Professional Software Developer specializing in JavaScript, ReactJS, NodeJS, Redux, Java, and SQL, with expertise in Data Structures and Algorithms. Let's work together to bring your ideas to life 🧑‍💻!
+                Professional Software Developer specializing in JavaScript, ReactJS, NodeJS, Redux, Java, and SQL, with expertise in Data Structures and Algorithms 🧑‍💻.
             </motion.p>
 
             <div className='mt-20 flex flex-wrap gap-10'>
