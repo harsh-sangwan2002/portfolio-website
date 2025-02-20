@@ -123,9 +123,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "Nov 2024 - Present",
     points: [
-      "Facilitated the deployment, configuration, and integration of Rakatu's solutions, achieving a 95% client satisfaction rate during implementation.",
-      "Designed and debugged RESTful APIs, resolved client issues, and improved backend performance, reducing response times by 35% and enhancing system reliability.",
-      "Worked with cross-functional teams to document processes, streamline development workflows, and optimize React - Node.js integrations, increasing development efficiency by 30%.",
+      "Implemented privileged access management (PAM) solutions, securing authentication and authorization for over 100 enterprise systems, enhancing overall data protection.",
+      "Managed password safes and enforced security policies, reducing unauthorized access incidents by 30% through robust access control configurations.",
+      "Deployed cybersecurity frameworks and monitored system vulnerabilities, improving the organization's security posture by 25% through proactive incident response.",
     ],
   },
   {
