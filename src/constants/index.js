@@ -169,7 +169,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Harsh is talented, smart, hard-working guy. He is always keen to learn something new, work on new projects and coming up with new ideas. He is a great young man who has got a great attitude, the skill and the will to succeed at the task in hand. He is absolutely humble in what he does and a great team player.",
+      "Harsh is a smart, talented, and hardworking individual with a passion for learning and innovation. His positive attitude, humility, and strong teamwork make him a reliable and inspiring contributor to any project.",
     name: "Vinay Dabas",
     designation: "Senior Solution Architect",
     company: "Ping Identity",
@@ -177,12 +177,29 @@ const testimonials = [
   },
   {
     testimonial:
-      "Harsh is a highly talented and dedicated software engineer with an extensive knowledge of programming languages and a stellar track record of producing enterprise level scalable applications. His commitment to producing clean, maintainable code greatly contributes to the long-term success of the projects he works on.",
+      "Harsh is a dedicated and talented software engineer with deep expertise in programming languages. He consistently builds scalable, enterprise-level applications with clean, maintainable code, making him a key contributor to long-term project success.",
     name: "Arvind Sangwan",
     designation: "Software Engineer",
     company: "CMPA",
     image: "https://media.licdn.com/dms/image/D5603AQGcVDwJnjNUoQ/profile-displayphoto-shrink_200_200/0/1673044415007?e=2147483647&v=beta&t=YiULChXOOnoQkyniByZwwnyF_y8xpmu25w-jNZPbfxg",
   },
+  {
+    testimonial:
+      "Harsh is a talented and versatile professional with strong technical expertise and analytical skills. He excels both independently and in teams, consistently delivering high-quality work. His dedication, attention to detail, and insightful contributions make him a valuable asset. I highly recommend Harsh and wish him continued success in his journey.",
+    name: "Omesh",
+    designation: "Junior Implementation Engineer",
+    company: "Rakatu",
+    image: "https://media.licdn.com/dms/image/v2/D5603AQGSFs94VDoMYQ/profile-displayphoto-shrink_100_100/B56ZSeJAqDHQAU-/0/1737819952142?e=1750291200&v=beta&t=PWNsfLPdjN9AZHKT2KDwtd9tRvShFFwSs8utU8bQj0k",
+  },
+  {
+    testimonial:
+      "I worked with Harsh for 3 months during college projects and was consistently impressed by his frontend skills. His strong grasp of HTML, CSS, JavaScript, and React makes him truly exceptional.",
+    name: "Lakshay Gautam",
+    designation: "Software Engineer",
+    company: "Hindustan Times",
+    image: "https://media.licdn.com/dms/image/v2/D4D03AQGp3Gma33wl8w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1673025579838?e=1750291200&v=beta&t=-zbMQEjTmWFzSSdWnQBIls1v6FeCMrNyycWZ9XaxWsI",
+  },
+
 ];
 
 const projects = [
