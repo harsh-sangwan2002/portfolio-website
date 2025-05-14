@@ -118,18 +118,6 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Software Development Engineer (Full Stack)",
-    company_name: "India Buys",
-    icon: indiabuys,
-    iconBg: "#383E56",
-    date: "May 2025 - Present",
-    points: [
-      "Engineered responsive web interfaces with React.js, HTML/CSS, and JavaScript, boosting user engagement by 30% across multiple e-commerce modules.",
-      "Designed and integrated scalable backend APIs using Node.js and Express, enhancing data flow and reducing response times by 25% across the platform.",
-      "Collaborated with the mobile development team on React Native, achieving a 15% increase in user retention through improved cross-platform UI/UX consistency.",
-    ],
-  },
-  {
     title: "Junior Implementation Engineer",
     company_name: "Rakatu",
     icon: rakatu,
