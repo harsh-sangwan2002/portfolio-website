@@ -25,7 +25,6 @@ import tata from '../assets/company/tata-power.jpg';
 import vedaz from '../assets/company/vedaz.png';
 import srijan from '../assets/company/srijan.png';
 import rakatu from '../assets/company/rakatu.jpeg';
-import indiabuys from '../assets/company/india-buys.jpg';
 
 export const navLinks = [
   {
