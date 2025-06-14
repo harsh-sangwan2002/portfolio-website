@@ -25,6 +25,8 @@ import tata from '../assets/company/tata-power.jpg';
 import vedaz from '../assets/company/vedaz.png';
 import srijan from '../assets/company/srijan.png';
 import rakatu from '../assets/company/rakatu.jpeg';
+import indiabuys from '../assets/company/indiabuys.jpeg'
+import youtube from '../assets/company/youtube.jpg'
 
 export const navLinks = [
   {
@@ -117,6 +119,18 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Content Creator",
+    company_name: "Self-employed (YouTube Channel)",
+    icon: youtube,
+    iconBg: "#383E56",
+    date: "Jun 2020 - Present",
+    points: [
+      "Independently created and published over 100 educational videos focused on coding and software development, building a loyal and engaged subscriber base.",
+      "Handled the full content creation pipeline — from ideation and scripting to filming, editing, and publishing — using tools like Adobe Premiere Pro and Final Cut Pro.",
+      "Implemented SEO strategies including optimized titles, tags, thumbnails, and descriptions, which boosted video visibility and increased average watch time by 40%.",
+    ],
+  },
+  {
     title: "Junior Implementation Engineer",
     company_name: "Rakatu",
     icon: rakatu,
@@ -126,6 +140,18 @@ const experiences = [
       "Implemented privileged access management (PAM) solutions, securing authentication and authorization for over 100 enterprise systems, enhancing overall data protection.",
       "Managed password safes and enforced security policies, reducing unauthorized access incidents by 30% through robust access control configurations.",
       "Deployed cybersecurity frameworks and monitored system vulnerabilities, improving the organization's security posture by 25% through proactive incident response.",
+    ],
+  },
+  {
+    title: "SDE-1",
+    company_name: "India Buys",
+    icon: indiabuys,
+    iconBg: "#383E56",
+    date: "Nov 2024 - Present",
+    points: [
+      "Developed and maintained 6+ full-stack features in a scalable React + Redux application, reducing page load time by 30% through optimized component rendering and efficient API integration.",
+      "Built and implemented a robust webhook processing system using Node.js, Express, and MongoDB, improving the success rate of event delivery by 92% with retry logic, event filtering, and secure signature verification",
+      "Delivered a cross-platform mobile app in React Native used by 5K+ active users, reducing development time by 40% through reusable UI components and shared business logic with the web codebase.",
     ],
   },
   {
