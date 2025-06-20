@@ -135,7 +135,7 @@ const experiences = [
     company_name: "India Buys",
     icon: indiabuys,
     iconBg: "#383E56",
-    date: "April 2025 - June 2025",
+    date: "Apr 2025 - Jun 2025",
     points: [
       "Developed and maintained 6+ full-stack features in a scalable React + Redux application, reducing page load time by 30% through optimized component rendering and efficient API integration.",
       "Built and implemented a robust webhook processing system using Node.js, Express, and MongoDB, improving the success rate of event delivery by 92% with retry logic, event filtering, and secure signature verification",
@@ -147,7 +147,7 @@ const experiences = [
     company_name: "Self-employed (YouTube Channel)",
     icon: youtube,
     iconBg: "#383E56",
-    date: "Jun 2020 - Present",
+    date: "Jun 2024 - Present",
     points: [
       "Independently created and published 100+ educational and motivational videos focused on coding, software development, and mindset, building an engaged and loyal subscriber base.",
       "Managed complete content creation pipeline — from scripting to editing — using Adobe Premiere Pro and Final Cut Pro, ensuring high-quality, consistent educational and inspirational content.",
