@@ -59,6 +59,28 @@ const Navbar = () => {
               <a href={`#${nav.id}`}>{nav.title}</a>
             </li>
           ))}
+          <li>
+            <a
+              href="../assets/resume.pdf"
+              download
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-secondary hover:text-white text-[18px] font-medium cursor-pointer"
+            >
+              Resume
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.linkedin.com/in/harsh-sangwan2002"
+              download
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-secondary hover:text-white text-[18px] font-medium cursor-pointer"
+            >
+              LinkedIn
+            </a>
+          </li>
         </ul>
 
         <div className='sm:hidden flex flex-1 justify-end items-center'>
@@ -87,6 +109,17 @@ const Navbar = () => {
                   <a href={`#${nav.id}`}>{nav.title}</a>
                 </li>
               ))}
+              <li>
+                <a
+                  href="../assets/resume.pdf"
+                  download
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-secondary hover:text-white text-[16px] font-medium cursor-pointer"
+                >
+                  Resume
+                </a>
+              </li>
             </ul>
           </div>
         </div>

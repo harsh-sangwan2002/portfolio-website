@@ -27,12 +27,9 @@ import srijan from '../assets/company/srijan.png';
 import rakatu from '../assets/company/rakatu.jpeg';
 import indiabuys from '../assets/company/indiabuys.jpeg'
 import youtube from '../assets/company/youtube.jpg'
+import ae from '../assets/company/ae.jpeg';
 
 export const navLinks = [
-  {
-    id: "about",
-    title: "About",
-  },
   {
     id: "work",
     title: "Work",
@@ -119,15 +116,15 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Junior Implementation Engineer",
-    company_name: "Rakatu",
-    icon: rakatu,
+    title: "Frontend Developer",
+    company_name: "Authority Entrepreneurs",
+    icon: ae,
     iconBg: "#383E56",
-    date: "Nov 2024 - Present",
+    date: "July 2025 - Present",
     points: [
-      "Engineered high-performance web applications with React, Next.js, Node.js, and Express, achieving a 30% increase in performance metrics and user satisfaction.",
-      "Architected a comprehensive internal tool suite integrated with MongoDB, streamlining content management workflows and reducing update cycle times by 30%.",
-      "Optimized backend microservices architecture using Java and Spring Boot, enhancing transaction processing capacity by 40 %.",
+      "Developed and customised marketing websites and sales funnels using GoHighLevel, boosting lead generation by 30 % and increasing conversion rates by 20 %.",
+      "Enhanced user engagement by refactoring frontend codebase with React, which led to a 15% decrease in bounce rate and improved the average session duration by 3 minutes.",
+      "Collaborated with designers and backend teams to integrate Node APIs, improving funnel performance and driving a 15% increase in user engagement through iterative testing.",
     ],
   },
   {
@@ -140,6 +137,18 @@ const experiences = [
       "Developed and maintained 6+ full-stack features in a scalable React + Redux application, reducing page load time by 30% through optimized component rendering and efficient API integration.",
       "Built and implemented a robust webhook processing system using Node.js, Express, and MongoDB, improving the success rate of event delivery by 92% with retry logic, event filtering, and secure signature verification",
       "Delivered a cross-platform mobile app in React Native used by 5K+ active users, reducing development time by 40% through reusable UI components and shared business logic with the web codebase.",
+    ],
+  },
+  {
+    title: "Junior Implementation Engineer",
+    company_name: "Rakatu",
+    icon: rakatu,
+    iconBg: "#383E56",
+    date: "Nov 2024 - Present",
+    points: [
+      "Engineered high-performance web applications with React, Next.js, Node.js, and Express, achieving a 30% increase in performance metrics and user satisfaction.",
+      "Architected a comprehensive internal tool suite integrated with MongoDB, streamlining content management workflows and reducing update cycle times by 30%.",
+      "Optimized backend microservices architecture using Java and Spring Boot, enhancing transaction processing capacity by 40 %.",
     ],
   },
   {
