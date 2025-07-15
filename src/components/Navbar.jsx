@@ -61,7 +61,7 @@ const Navbar = () => {
           ))}
           <li>
             <a
-              href="../assets/resume.pdf"
+              href="/resume.pdf"
               download
               target="_blank"
               rel="noopener noreferrer"
@@ -111,7 +111,7 @@ const Navbar = () => {
               ))}
               <li>
                 <a
-                  href="../assets/resume.pdf"
+                  href="/resume.pdf"
                   download
                   target="_blank"
                   rel="noopener noreferrer"
