@@ -224,7 +224,7 @@ const testimonials = [
     name: "Omesh",
     designation: "Junior Implementation Engineer",
     company: "Rakatu",
-    image: "https://media.licdn.com/dms/image/v2/D5603AQGSFs94VDoMYQ/profile-displayphoto-shrink_100_100/B56ZSeJAqDHQAU-/0/1737819952142?e=1750291200&v=beta&t=PWNsfLPdjN9AZHKT2KDwtd9tRvShFFwSs8utU8bQj0k",
+    image: "https://media.licdn.com/dms/image/v2/D5603AQGSFs94VDoMYQ/profile-displayphoto-shrink_800_800/B56ZSeJAqDHQAc-/0/1737819952142?e=1757548800&v=beta&t=sYTrNaDazEV_XHdMzH4iftwXtSLRTz2wJzmSX_bpRnI",
   },
   {
     testimonial:
@@ -232,7 +232,7 @@ const testimonials = [
     name: "Lakshay Gautam",
     designation: "Software Engineer",
     company: "Hindustan Times",
-    image: "https://media.licdn.com/dms/image/v2/D4D03AQGp3Gma33wl8w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1673025579838?e=1750291200&v=beta&t=-zbMQEjTmWFzSSdWnQBIls1v6FeCMrNyycWZ9XaxWsI",
+    image: "https://media.licdn.com/dms/image/v2/D4D03AQGp3Gma33wl8w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1673025579838?e=1757548800&v=beta&t=gCd_k_mOVo-RwELLMUN19bkSs40e8Z21pqup7yR4Yho",
   },
 
 ];
