@@ -51,11 +51,12 @@ const About = () => {
                 Professional Software Developer with 2+ YOE specialising in JavaScript, React, Node, Redux, Spring, Spring Boot, Java, and SQL, with expertise in Data Structures and Algorithms 🧑‍💻.
             </motion.p>
 
-            <div className='mt-20 flex flex-wrap gap-10'>
+            <div className='mt-20 flex flex-wrap justify-center gap-10'>
                 {services.map((service, index) => (
                     <ServiceCard key={service.title} index={index} {...service} />
                 ))}
             </div>
+
         </>
     );
 };

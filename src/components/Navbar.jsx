@@ -41,9 +41,12 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <p className='text-white text-[18px] font-bold cursor-pointer flex mx-16'>
-            <img src={logo} style={{ width: '2rem', height: '2rem', marginRight: '1rem', borderRadius: '20%' }} />
-            Harsh Sangwan &nbsp;
+          <p className='text-white text-[18px] font-bold cursor-pointer flex items-center'>
+            <img
+              src={logo}
+              style={{ width: '2rem', height: '2rem', marginRight: '1rem', borderRadius: '20%' }}
+            />
+            Harsh Sangwan&nbsp;
             <span className='sm:block hidden'> | Software Developer</span>
           </p>
         </Link>
