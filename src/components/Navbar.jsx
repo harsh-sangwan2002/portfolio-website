@@ -84,6 +84,16 @@ const Navbar = () => {
               LinkedIn
             </a>
           </li>
+          <li>
+            <a
+              href="https://github.com/harsh-sangwan2002"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-secondary hover:text-white text-[18px] font-medium cursor-pointer"
+            >
+              GitHub
+            </a>
+          </li>
         </ul>
 
         <div className='sm:hidden flex flex-1 justify-end items-center'>
@@ -121,6 +131,16 @@ const Navbar = () => {
                   className="text-secondary hover:text-white text-[16px] font-medium cursor-pointer"
                 >
                   Resume
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://github.com/harsh-sangwan2002"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-secondary hover:text-white text-[18px] font-medium cursor-pointer"
+                >
+                  GitHub
                 </a>
               </li>
             </ul>
