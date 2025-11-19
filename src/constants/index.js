@@ -122,9 +122,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "July 2025 - Present",
     points: [
-      "Developed and customised marketing websites and sales funnels using GoHighLevel, boosting lead generation by 30 % and increasing conversion rates by 20 %.",
-      "Enhanced user engagement by refactoring frontend codebase with React, which led to a 15% decrease in bounce rate and improved the average session duration by 3 minutes.",
-      "Collaborated with designers and backend teams to integrate Node APIs, improving funnel performance and driving a 15% increase in user engagement through iterative testing.",
+      "Spearheaded and customised marketing websites and sales funnels using Go-High-Level, boosting lead generation by 30% and increasing conversion rates by 20%.",
+      "Enhanced user engagement by refactoring the front-end code-base with React, which led to a 15% decrease in bounce rate and improved the average session duration by 3 minutes.",
+      "Collaborated with designers and backend teams tointegrate Node APIs, improving funnel performance and driving a 15% increase in user engagement through iterative testing.",
     ],
   },
   {
@@ -146,9 +146,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "Nov 2024 - Present",
     points: [
-      "Engineered high-performance web applications with React, Next.js, Node.js, and Express, achieving a 30% increase in performance metrics and user satisfaction.",
-      "Architected a comprehensive internal tool suite integrated with MongoDB, streamlining content management workflows and reducing update cycle times by 30%.",
-      "Optimized backend microservices architecture using Java and Spring Boot, enhancing transaction processing capacity by 40 %.",
+      "Built and deployed a full-stack application using React, Node.js, Express, and MongoDB, improving data retrieval speed by 40% and reducing server response time by 25% through improved API design.",
+      "Developed and optimized RESTful APIs using Spring Boot, implementing caching and pagination to enhance backend eﬃciency and reduce average API latency by 30%.",
+      "Designed and integrated Java microservices architecture with inter-service communication via REST and RabbitMQ, achieving 20% faster request handling and ensuring seamless data consistency across distributed systems.",
     ],
   },
   {
