@@ -120,7 +120,7 @@ const experiences = [
     company_name: "Authority Entrepreneurs",
     icon: ae,
     iconBg: "#383E56",
-    date: "July 2025 - Present",
+    date: "July 2025 - Oct 2025",
     points: [
       "Spearheaded and customised marketing websites and sales funnels using Go-High-Level, boosting lead generation by 30% and increasing conversion rates by 20%.",
       "Enhanced user engagement by refactoring the front-end code-base with React, which led to a 15% decrease in bounce rate and improved the average session duration by 3 minutes.",
