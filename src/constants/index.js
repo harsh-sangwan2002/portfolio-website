@@ -122,9 +122,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "July 2025 - Oct 2025",
     points: [
-      "Spearheaded and customised marketing websites and sales funnels using Go-High-Level, boosting lead generation by 30% and increasing conversion rates by 20%.",
-      "Enhanced user engagement by refactoring the front-end code-base with React, which led to a 15% decrease in bounce rate and improved the average session duration by 3 minutes.",
-      "Collaborated with designers and backend teams tointegrate Node APIs, improving funnel performance and driving a 15% increase in user engagement through iterative testing.",
+      "Built and customized high-traffic GoHighLevel funnels using React, improving lead capture efficiency by 32% through refined UI flow, routing, and form interactions.",
+      "Refactored 8+ funnel pages into modular, reusable React components, reducing front-end load time by 18% and improving Lighthouse accessibility scores by 25%.",
+      "Integrated GoHighLevel Forms with custom Node.js REST APIs, strengthening data pipelines and reducing submission failures by 40% across production funnels.",
+      "Implemented responsive layouts using HTML, CSS, and JavaScript, improving session duration and lowering bounce rates across marketing campaigns."
     ],
   },
   {
@@ -140,15 +141,15 @@ const experiences = [
     ],
   },
   {
-    title: "Junior Implementation Engineer",
+    title: "Software Development Engineer",
     company_name: "Rakatu",
     icon: rakatu,
     iconBg: "#383E56",
     date: "Nov 2024 - Present",
     points: [
-      "Built and deployed a full-stack application using React, Node.js, Express, and MongoDB, improving data retrieval speed by 40% and reducing server response time by 25% through improved API design.",
-      "Developed and optimized RESTful APIs using Spring Boot, implementing caching and pagination to enhance backend eﬃciency and reduce average API latency by 30%.",
-      "Designed and integrated Java microservices architecture with inter-service communication via REST and RabbitMQ, achieving 20% faster request handling and ensuring seamless data consistency across distributed systems.",
+      "Engineered key web modules using React, HTML/CSS, and Spring Boot microservices, enhancing UI responsiveness and cutting load times by 20% across critical pages.",
+      "Orchestrated REST-based microservice interactions and upgraded data pipelines, increasing service reliability and reducing response latency by 25%.",
+      "Implemented secure credential workflows using PAM tools like Password Safe, enabling automated password rotation and strengthening access control across internal systems.",
     ],
   },
   {
