@@ -28,6 +28,7 @@ import rakatu from '../assets/company/rakatu.jpeg';
 import indiabuys from '../assets/company/indiabuys.jpeg'
 import youtube from '../assets/company/youtube.jpg'
 import ae from '../assets/company/ae.jpeg';
+import sunstone from '../assets/company/sunstone.png';
 
 export const navLinks = [
   {
@@ -50,12 +51,12 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
-    icon: creator,
-  },
-  {
     title: "Frontend Developer",
     icon: web,
+  },
+  {
+    title: "Content Creator",
+    icon: creator,
   },
 ];
 
@@ -116,6 +117,18 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Software Development Engineer",
+    company_name: "Sunstone Pvt Ltd",
+    icon: sunstone,
+    iconBg: "#383E56",
+    date: "Dec 2025 - Present",
+    points: [
+      "Built and scaled an internal student assessment & analytics dashboard using React, Node.js, and SQL, supporting 1,000+ learners and improving evaluation throughput by 40%.",
+      "Implemented RBAC, automated grading pipelines, and reusable UI components, reducing manual intervention by 45% and improving platform reliability by 35%.",
+      "Taught MERN stack and DBMS through hands-on, production-style labs and projects for 500+ students increasing assignment accuracy and on-time submissions by 30%."
+    ]
+  },
+  {
     title: "Frontend Developer",
     company_name: "Authority Entrepreneurs",
     icon: ae,
@@ -125,7 +138,6 @@ const experiences = [
       "Built and customized high-traffic GoHighLevel funnels using React, improving lead capture efficiency by 32% through refined UI flow, routing, and form interactions.",
       "Refactored 8+ funnel pages into modular, reusable React components, reducing front-end load time by 18% and improving Lighthouse accessibility scores by 25%.",
       "Integrated GoHighLevel Forms with custom Node.js REST APIs, strengthening data pipelines and reducing submission failures by 40% across production funnels.",
-      "Implemented responsive layouts using HTML, CSS, and JavaScript, improving session duration and lowering bounce rates across marketing campaigns."
     ],
   },
   {
