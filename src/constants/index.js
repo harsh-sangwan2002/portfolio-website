@@ -125,7 +125,7 @@ const experiences = [
     points: [
       "Built and scaled an internal student assessment & analytics dashboard using React, Node.js, and SQL, supporting 1,000+ learners and improving evaluation throughput by 40%.",
       "Implemented RBAC, automated grading pipelines, and reusable UI components, reducing manual intervention by 45% and improving platform reliability by 35%.",
-      "Taught MERN stack and DBMS through hands-on, production-style labs and projects for 500+ students increasing assignment accuracy and on-time submissions by 30%."
+      "Mentored 500+ students in MERN stack and DBMS through hands-on, production-style labs and projects, improving assignment accuracy and on-time submissions by 30%."
     ]
   },
   {
