@@ -118,7 +118,7 @@ const technologies = [
 const experiences = [
   {
     title: "Software Development Engineer",
-    company_name: "Sunstone Pvt Ltd",
+    company_name: "Sunstone (ALTA School Of Technology)",
     icon: sunstone,
     iconBg: "#383E56",
     date: "Dec 2025 - Present",
@@ -137,7 +137,7 @@ const experiences = [
     points: [
       "Built and customized high-traffic GoHighLevel funnels using React, improving lead capture efficiency by 32% through refined UI flow, routing, and form interactions.",
       "Refactored 8+ funnel pages into modular, reusable React components, reducing front-end load time by 18% and improving Lighthouse accessibility scores by 25%.",
-      "Integrated GoHighLevel Forms with custom Node.js REST APIs, strengthening data pipelines and reducing submission failures by 40% across production funnels.",
+      "Mentored and guided 500+ students in full-stack development concepts and DBMS through hands-on labs, real-world project work, and structured assessments, leading to improved submission quality and learning outcomes."
     ],
   },
   {
