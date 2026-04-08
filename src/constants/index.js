@@ -28,7 +28,7 @@ import rakatu from '../assets/company/rakatu.jpeg';
 import indiabuys from '../assets/company/indiabuys.jpeg'
 import youtube from '../assets/company/youtube.jpg'
 import ae from '../assets/company/ae.jpeg';
-import sunstone from '../assets/company/sunstone.png';
+import alta from '../assets/company/alta.jpeg'
 
 export const navLinks = [
   {
@@ -117,11 +117,11 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Software Development Engineer",
-    company_name: "Sunstone (ALTA School Of Technology)",
-    icon: sunstone,
+    title: "SDE-1 | Instructor",
+    company_name: "ALTA School Of Technology",
+    icon: alta,
     iconBg: "#383E56",
-    date: "Dec 2025 - Present",
+    date: "Jan 2026 - Present",
     points: [
       "Built and scaled an internal student assessment & analytics dashboard using React, Node.js, and SQL, supporting 1,000+ learners and improving evaluation throughput by 40%.",
       "Implemented RBAC, automated grading pipelines, and reusable UI components, reducing manual intervention by 45% and improving platform reliability by 35%.",
