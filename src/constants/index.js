@@ -121,7 +121,7 @@ const experiences = [
     company_name: "ALTA School Of Technology",
     icon: alta,
     iconBg: "#383E56",
-    date: "Jan 2026 - Present",
+    date: "Jan 2026 - July 2026",
     points: [
       "Built and scaled an internal student assessment & analytics dashboard using React, Node.js, and SQL, supporting 1,000+ learners and improving evaluation throughput by 40%.",
       "Implemented RBAC, automated grading pipelines, and reusable UI components, reducing manual intervention by 45% and improving platform reliability by 35%.",
